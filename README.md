@@ -18,7 +18,7 @@ Official repository for **Galaxy Enterprises**, a trusted name in photocopiers, 
 
 ## 🏢 About Us
 
-Based in **Noida, Uttar Pradesh**, Galaxy Enterprises provides end-to-end printing solutions, from **wholesale distribution** to **on-demand services**, making us a one-stop shop for businesses across Delhi NCR.  
+Based in **Kotputli, Jaipur, Rajasthan**, Galaxy Enterprises provides end-to-end printing solutions, from **wholesale distribution** to **on-demand services**, making us a one-stop shop for businesses across Kotputli.  
 
 ---
 
