@@ -1,6 +1,6 @@
 # 🖨️ Galaxy Enterprises – Printing Made Simple
 
-Official repository for **Galaxy Enterprises**, a trusted name in photocopiers, printers, cartridges, and rental/repair services across Delhi NCR.  
+Official repository for **Galaxy Enterprises**, a trusted name in photocopiers, printers, cartridges, and rental/repair services across Kotputli, Jaipur.  
 
 🌐 Visit: [galaxyprinter.in](https://galaxyprinter.in/)
 
